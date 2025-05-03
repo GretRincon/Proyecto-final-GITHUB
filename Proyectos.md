@@ -53,5 +53,10 @@ Estos notebooks son útiles para crear muchas mas visualizaciones, sin embargo n
 
 # Proyecto 3 Visualización de 23 años de datos de temperatura y precipitación C>
 
+## Objetivo:
+Practicar las visualizaciones y limpieza de los datos capturados por la estación metereologica ubicada en el COlegio de Ciencias y Humanidades plantel Oriente.
+ 
+## Descripción:
+Por completar...
 #Proyecto 4 Business Model Canvas de un software inteligente de ubicación de n>
 
