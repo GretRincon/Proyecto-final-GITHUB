@@ -7,8 +7,7 @@
 - Seafret
 - One Republic
 
-### Selecciona una al azar y disfruta..
-## Lista de canciones favoritas
+### Selecciona un numero al azar y disfruta..
 
 1. [ ](https://youtu.be/WI0Ls4EC_E0?si=j8cZLtAla9Sc-B4w)
 2. [ ](https://youtu.be/Y1YTg6SEed8?si=pdLXQhZ7u9T6dISF)
