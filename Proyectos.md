@@ -1,0 +1,33 @@
+# Proyectos desarrollados
+
+[x] Registro cambios de fase en estados metaestables
+[x] Simulación del transito del pumabus ruta 9 de CU
+[x] Visualización de 23 años de datos de temperatura y precipitación CCH Oriente
+[x] Mapa interactivo del metro CDMX estaciones mas concurridas
+[x] Business Model Canvas de un software inteligente de ubicación de negocios
+
+# Proyecto 1
+## Objetivo: 
+Registrar la temperatura del agua que inicia en un estado metaestable líquido y con un golpe cambia repentinamente a estado sólido en cuestión de segundos.
+## Fecha de creación:
+2018
+## Tecnologías y herramientas utilizadas:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## Descripción:
+Se utilizó un sensor digital de temperatura DS18B20 (con rango de medición -55°C hasta 125°C) y un arduino UNO para recolectar la información de temperatura en °C y el tiempo en terminos de 00:00:00.000 segundos.
+Ahora, un estado metaestable fue creado colocando el sensor pegado a la tapa de una botella de agua, y esta colocada en un congelador doméstico para llegar a un superenfriamiento replicable, de este modo el agua permanece aún liquida a temperaturas bajo cero. Una vez logrado, sacamos la botella y conectamos el sensor al arduino para comenzar a recolectar datos. 
+Una perturbación sobre un liquido superenfriado, en este caso una vibración en forma de un solo golpe fuerte contra la mesa provoca que el agua se congele subitamente, disminuyendo la temperatura debido al cambio de estado.
+
+## Resultados: 
+Se logró visualizar en gráficas de excel el súbito cambio de estado, además de verificar que un congelador domestico puede enfriar lo suficiente para lograrlo. 
+En total se recopilaron 618 datos en 87 segundos, cada dato en un intervalo de 0.141 milisegundos.
+El agua inició con una temperatura de -4.00°C, al congelarse, el calor latente provoco un aumento de temperatura hasta llegar a semi-hielo a -0.44°C.
+
+## Notas adicionales:
+Es un excelente experimento casero para la enseñanza del cambio de fase, así como apoyo en la definición de calor latente.Se puede mejorar logrando tener el liquido a temperaturas mas bajas, para lograr que una mayor porción de líquido pase a sólido, recordando que a presiones atmosféricas, la congelación se da 0°C, por lo que la temperatura orginial no fue suficiente para la cantidad de líquido en una botella.
+ 
+
+
+ 
