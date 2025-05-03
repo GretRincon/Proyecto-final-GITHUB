@@ -21,4 +21,10 @@
 - Inception
 - The rear window
 
+## Materias favoritas de física
+
+- Electromagnetismo
+- Estadística
+- Mecánica
+
 ## Porfavor deja tus recomendaciones
