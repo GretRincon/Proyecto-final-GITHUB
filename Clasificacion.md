@@ -26,5 +26,24 @@
 - Electromagnetismo
 - Estadística
 - Mecánica
+- Óptica
+
+## Libros leidos 2024 / 2025
+
+1. Moyes, J. (2012). *Yo antes de ti*. Penguin Random House Grupo Editorial.
+
+2. Levy, J. (2013). *Un final perfecto*. Ediciones Martínez Roca.
+
+3. Diffenbaugh, V. (2011). *El lenguaje de las flores*. Editorial Salamandra.
+
+4. Mastretta, A. (1985). *Arráncame la vida*. Editorial Planeta.
+
+5. Westerfeld, S. (2005–2007). *Saga Traición (Uglies)*. Simon Pulse.
+   - Incluye: *Traición (Uglies)*, *Perfección (Pretties)*, *Especiales (Specials)* y *Extras*.
+
+6. Clear, J. (2018). *Hábitos atómicos*. Editorial Diana.
+
+- Hábitos atómicos
+- 
 
 ## Porfavor deja tus recomendaciones
