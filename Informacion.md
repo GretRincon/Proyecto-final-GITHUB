@@ -23,3 +23,16 @@
 - Google Cloud Computing Foundations Academy
 - Neo4j Graph Data Science Certified
 
+## Actividades y cursos a los que he asistido
+- Winter School Quantum Computing 2022 CECAv UNAM
+- XXX Summer School in Physics 2023 IF, ICF UNAM
+- Industria 4.0 CIberseguridad retos y oportunidades 2024 UNAM
+- Expositora en Noche de las estrellas 2024 SPIE UNAM
+
+
+## Pasatiempos 
+- Me gusta dibujar, hacer scrapbook y manualidades
+- Me gusta correr, el senderismo y explorar nuevos lugares
+- Me gusta patinar en ruedas y sobre hielo 🛼
+- Los juegos de mesa también!
+- Leer de vez en cuando y las películas
