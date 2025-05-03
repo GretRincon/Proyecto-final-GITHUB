@@ -27,7 +27,7 @@
 - Winter School Quantum Computing 2022 CECAv UNAM
 - XXX Summer School in Physics 2023 IF, ICF UNAM
 - Industria 4.0 CIberseguridad retos y oportunidades 2024 UNAM
-- Expositora en Noche de las estrellas 2024 SPIE UNAM
+- Expositora en Noche de las estrellas 2024 SPIE UNAM 
 
 
 ## Pasatiempos 
@@ -36,3 +36,5 @@
 - Me gusta patinar en ruedas y sobre hielo 🛼
 - Los juegos de mesa también!
 - Leer de vez en cuando y las películas
+
+
