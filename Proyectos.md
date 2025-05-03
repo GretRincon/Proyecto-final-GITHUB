@@ -1,16 +1,15 @@
 # Proyectos desarrollados
 
 [x] Registro cambios de fase en estados metaestables
-[x] Simulación del transito del pumabus ruta 9 de CU
+[x] Documentacion en español de OpenStreetMapX con Simulación del transito del pumabus ruta 9 de CU y mapa interactivo del metro CDMX estaciones mas concurridas
 [x] Visualización de 23 años de datos de temperatura y precipitación CCH Oriente
-[x] Mapa interactivo del metro CDMX estaciones mas concurridas
 [x] Business Model Canvas de un software inteligente de ubicación de negocios
-
-# Proyecto 1
+[ ] Mascotas interactivas con Firebase Realtime
+# Proyecto 1 Estados metaestables
 ## Objetivo: 
 Registrar la temperatura del agua que inicia en un estado metaestable líquido y con un golpe cambia repentinamente a estado sólido en cuestión de segundos.
 ## Fecha de creación:
-2018
+Noviembre 2018
 ## Tecnologías y herramientas utilizadas:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -28,6 +27,26 @@ El agua inició con una temperatura de -4.00°C, al congelarse, el calor latente
 ## Notas adicionales:
 Es un excelente experimento casero para la enseñanza del cambio de fase, así como apoyo en la definición de calor latente.Se puede mejorar logrando tener el liquido a temperaturas mas bajas, para lograr que una mayor porción de líquido pase a sólido, recordando que a presiones atmosféricas, la congelación se da 0°C, por lo que la temperatura orginial no fue suficiente para la cantidad de líquido en una botella.
  
+# Proyecto 2 Documentacion en español de la paquetería  OpenStreetMapX
 
+## Objetivo: 
+Crear un jupyter notebook que explicara en español la paquetería OpenStreerMapX de Python, para crear y optimizar rutas, visualizaciones, imagenes y gifs
+## Fecha de creación 
+Junio 2023
+## Tecnologías y herramientas utilizadas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
- 
+## Descripción:
+Una serie de dos notebook se crearon para nformar sobre la paquetería OpenStreetMapX, como primeros pasos, por que utilizarla así como ideas para usar usarla. Utilidades básicas (Exportar mapas, insertar mapas)
+Como colocar nodos, puntos y rutas.
+Como crear gráficas interactivas para estadísticas por ejemplo la afluencia de estaciones del metro. Y optimización de rutas por velocidades o por vía.
+Finalmente una simulación de transito.
+
+## Resultados:
+![Gif simulación de transito en CU y la ruta 9 del pumabus](./imagenes/anim_ttc.gif)
+![Logo del proyecto](./imagenes/simulacionMetro.png)
+
+##Notas adicionales:
+Estos notebooks son útiles para crear muchas mas visualizaciones, sin embargo no lo he subido a github, por lo que no esta al acceso, se espera subirlo en este mes.
+
