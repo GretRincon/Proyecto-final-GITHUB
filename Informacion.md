@@ -14,3 +14,12 @@
 - **LinkedIn:** [linkedin.com/in/gretchen-rincon](https://www.linkedin.com/in/gretchen-itzel-rincon-villa/)
 - **Instagram:** [@epsilon_pequeno](https://www.instagram.com/epsilon_pequeno)
 
+
+## Formación académica y extracurricular
+- Licenciatura en Física Facultad de Ciencias UNAM
+- Pre-becariado PROTECSA UNAM
+- Certificated Data Analysis by Google
+- Excel skill for Data Analytics by Macquarie University
+- Google Cloud Computing Foundations Academy
+- Neo4j Graph Data Science Certified
+
