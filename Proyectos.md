@@ -5,6 +5,7 @@
 [x] Visualización de 23 años de datos de temperatura y precipitación CCH Oriente
 [x] Business Model Canvas de un software inteligente de ubicación de negocios
 [ ] Mascotas interactivas con Firebase Realtime
+
 # Proyecto 1 Estados metaestables
 ## Objetivo: 
 Registrar la temperatura del agua que inicia en un estado metaestable líquido y con un golpe cambia repentinamente a estado sólido en cuestión de segundos.
@@ -49,4 +50,8 @@ Finalmente una simulación de transito.
 
 ##Notas adicionales:
 Estos notebooks son útiles para crear muchas mas visualizaciones, sin embargo no lo he subido a github, por lo que no esta al acceso, se espera subirlo en este mes.
+
+# Proyecto 3 Visualización de 23 años de datos de temperatura y precipitación C>
+
+#Proyecto 4 Business Model Canvas de un software inteligente de ubicación de n>
 
