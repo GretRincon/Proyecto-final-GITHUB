@@ -15,4 +15,10 @@
 3. [ ](https://youtu.be/1Hqjaqi8xGs?si=gL48uVG9Hh83UGVj)
 4. [ ](https://youtu.be/Y56lpXvXbs0?si=HWhbI_VZg-w9sVbB)
 
+## Peliculas que me han sorprendido
+
+- Get out
+- El culpable
+- Inception
+- The rear window
 
