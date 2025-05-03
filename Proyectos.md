@@ -60,3 +60,4 @@ Practicar las visualizaciones y limpieza de los datos capturados por la estació
 Por completar...
 #Proyecto 4 Business Model Canvas de un software inteligente de ubicación de n>
 
+
