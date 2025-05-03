@@ -37,6 +37,7 @@ Junio 2023
 ## Tecnologías y herramientas utilizadas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-1.9-blue?logo=julia)
 
 ## Descripción:
 Una serie de dos notebook se crearon para nformar sobre la paquetería OpenStreetMapX, como primeros pasos, por que utilizarla así como ideas para usar usarla. Utilidades básicas (Exportar mapas, insertar mapas)
