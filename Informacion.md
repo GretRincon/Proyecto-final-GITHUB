@@ -38,3 +38,6 @@
 - Leer de vez en cuando y las películas
 
 
+### ¿Algo mas que agregar?
+Muchisimas cosas mas podrian ser, pero es mejor ir agregando los proyectos poco a poco y no solo descripciones.
+
